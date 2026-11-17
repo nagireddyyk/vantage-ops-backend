@@ -1,0 +1,5 @@
+{
+  "host": ["vantage-db.ctemu8kseupf.ap-south-2.rds.amazonaws.com"],
+  "portNumber": ["3306"],
+  "localPortNumber": ["3307"]
+}
